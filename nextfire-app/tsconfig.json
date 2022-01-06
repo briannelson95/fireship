@@ -23,7 +23,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-, "pages/[username]/[slug].js", "pages/[username]/index.js", "pages/admin/[slug].js", "pages/admin/index.js", "pages/_app.js", "pages/enter.js", "pages/index.js"  ],
+, "pages/[username]/[slug].js", "pages/[username]/index.js", "pages/admin/[slug].js", "pages/admin/index.js", "pages/_app.js", "pages/enter.js", "pages/index.js", "lib/hooks.js"  ],
   "exclude": [
     "node_modules"
   ]
